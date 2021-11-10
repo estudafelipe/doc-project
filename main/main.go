@@ -1,7 +1,7 @@
 package main
 
 import (
-	"doc-project/cachorro"
+	"github.com/estudafelipe/doc-project/cachorro"
 	"fmt"
 )
 
